@@ -1,0 +1,48 @@
+= Vs == VS === in JavaScript
+
+=,
+
+= in JavaScript is used for assigning values to a variable.
+It is called as assignment operator
+The assignment operator can evaluate to the assigned value
+It does not return true or false
+= simply assign one value of variable to another one.
+== will not compare the value of variables at all.
+
+==,
+== in JavaScript is used for comparing two variables, but it ignores the datatype of variable.
+It is called as comparison operator
+Checks the equality of two operands without considering their type.
+Return true if the two operands are equal. It will return false if the two operands are not equal.
+== make type correction based upon values of variables
+ of variables at all.	The == checks for equality only after doing necessary conversations.
+
+===,
+=== is used for comparing two variables, but this operator also checks datatype and compares two values.
+It is also called as comparison operator
+Compares equality of two operands with their types
+It returns true only if both values and data types are the same for the two variables.
+=== takes type of variable in consideration.
+If two variable values are not similar, then === will not perform any conversion.
+
+
+
+KEY DIFFERENCES:
+= is used for assigning values to a variable, == is used for comparing two variables, but it ignores the datatype of variable whereas === is used for comparing two variables,
+ but this operator also checks datatype and compares two values.
+= is called as assignment operator, == is called as comparison operator whereas It is also called as comparison operator.
+= does not return true or false, == Return true only if the two operands are equal while === returns true only if both values and data types are the same for the two variables.
+
+Arrouw Functions
+=> is like saying return this
+you may not have to write return but if you want the function to log something or do something other than return the value you 
+need to implicitly write it as return " this " 
+ex. const square = n => console.log(n*n);
+
+
+
+
+
+
+
+

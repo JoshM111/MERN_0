@@ -1,0 +1,45 @@
+react- 
+
+
+
+DOM- 
+is memory heirarchical view of a webpapge
+
+document-
+    holds everything about the webpapge
+    kind of like an outline as far as routing
+object-
+
+
+
+
+
+
+model-
+
+
+component is like the controller and the view put together in python
+
+return statement is equivalent of views
+
+state vs. session
+
+hooks- imported functionality
+
+jsx in vscode will give help prompts specifically for react.
+
+props brings shortcuts to state.
+
+app.js is the owner of state since it cerated it    
+    can give shortcuts to anyone 
+
+
+
+
+
+
+
+
+
+
+

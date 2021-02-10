@@ -1,0 +1,34 @@
+starting an app
+npx create-react-app $app_name$
+ 
+once the project is created, 
+cd into the app folder
+
+npm start- to start the react app
+
+src directory
+- app.js
+    -referred to jsx. looks like html written in a javascript file
+public directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

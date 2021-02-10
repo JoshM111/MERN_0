@@ -1,0 +1,98 @@
+next week we will be going over express and mongo
+
+get thru pokemon api by monday
+ternary operators
+
+try to do the lukeapiwalker if you can. if you can accomplish this assignment you will be able to do the front end portion of the exam
+
+libraries
+ones that we have used
+useEffect
+    can go out and run with fetch- once
+        used to run code that is asynchornus
+            or needs to be run once
+
+today we will be using the poke api
+
+bootstrap
+    how to add
+    npm install bootstrap
+
+in certain scenarios you will need a value in the [] at the end of a useEffect function
+
+axios-
+using regular js
+
+
+import axios from 'axios';
+
+useEffect(() => {
+    axios.get("link" + pokemonCount)
+        .then(response) => {
+            console.log(response);
+            setPokemon(response.results);
+
+        }
+}    )
+
+this can change the format in which your code is going to be run. make sure that you are routing correctly if you are updating code that has already been written.
+
+Reach router;
+import { Router } from '@reach/router';
+
+Link-
+import { Link } from '@reach/router';
+
+const Header = () => {
+    return(
+        <div>
+            <Links
+    )
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
